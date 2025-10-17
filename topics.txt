@@ -1,0 +1,7 @@
+aws main topics
+
+EC2
+S3
+IAM
+VPC
+DB
